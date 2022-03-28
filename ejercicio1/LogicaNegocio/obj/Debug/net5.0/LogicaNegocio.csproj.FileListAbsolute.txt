@@ -1,0 +1,12 @@
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.deps.json
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.dll
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\bin\Debug\net5.0\ref\LogicaNegocio.dll
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\bin\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.dll
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\ref\LogicaNegocio.dll
+C:\Users\Quiroz Family\Desktop\lab2\ejercicio1\LogicaNegocio\obj\Debug\net5.0\LogicaNegocio.pdb

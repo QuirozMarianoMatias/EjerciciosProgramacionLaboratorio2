@@ -1,0 +1,16 @@
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\bin\Debug\net5.0\Vista.exe
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\bin\Debug\net5.0\Vista.deps.json
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\bin\Debug\net5.0\Vista.runtimeconfig.json
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\bin\Debug\net5.0\Vista.runtimeconfig.dev.json
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\bin\Debug\net5.0\Vista.dll
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\bin\Debug\net5.0\ref\Vista.dll
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\bin\Debug\net5.0\Vista.pdb
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.csprojAssemblyReference.cache
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.AssemblyInfoInputs.cache
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.AssemblyInfo.cs
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.dll
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\ref\Vista.dll
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.pdb
+C:\Users\Quiroz Family\Desktop\lab2\EjercicioI01\Vista\obj\Debug\net5.0\Vista.genruntimeconfig.cache
